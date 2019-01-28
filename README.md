@@ -7,3 +7,4 @@ input (784) -> hidden1 (50) -> activation1 (tanh) -> hidden2 (50) -> activation2
 Optimizer : Adam (learning rate = 0.0001) <br><br>
 Mini-batch size : 32 <br><br>
 Number of epochs : 180 <br><br>
+Code Reference : https://www.coursera.org/learn/neural-networks-deep-learning
